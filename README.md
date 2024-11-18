@@ -30,8 +30,10 @@ This project was created using Visual Studio Code (VSCode), a powerful and popul
 
 ### Contact:
 
-If you have any questions, suggestions, or feedback regarding this project, feel free to reach out to me at nokubongangema8@gmail.com.
+If you have any questions, suggestions, or feedback regarding this project, feel free to reach out to me at nokubongangema8@gmail.com
 
----
 
-Feel free to add or modify any sections to better suit your project and personal preferences!
+
+<img src="assets/portfolio.png" alt="Image 2" width="300"/>
+<img src="assets/portfolio1.png" alt="Image 2" width="300"/>
+<img src="assets/portfolio2.png" alt="Image 2" width="300"/>
