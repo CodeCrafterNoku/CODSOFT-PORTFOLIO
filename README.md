@@ -1,6 +1,61 @@
-**Personal Portfolio Project README**
 
----
+<h2 align="center">
+  Personal Portfolio - MyPortfolio<br/>
+  <a href="https://.app/" target="_blank">Nokubonga CodeCrafterNoku</a>
+</h2>
+<div align="center">
+ <p align="center">
+<img src="assets/portfolio.png" alt="Image 2" width="300"/>
+<img src="assets/portfolio1.png" alt="Image 2" width="300"/>
+<img src="assets/portfolio2.png" alt="Image 2" width="300"/>
+</p>
+</div>
+
+<br/>
+
+<center>
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
+[![forthebadge](https://forthebadge.com/images/badges/made-with-css.svg)](https://forthebadge.com) &nbsp;
+
+
+
+</center>
+
+<h3 align="center">
+    🔹
+    <a href="https://github.com/CodeCrafterNoku/CODSOFT-PORTFOLIO/issues">Report Bug</a> &nbsp; &nbsp;
+    🔹
+    <a href="https://github.com/CodeCrafterNoku/CODSOFT-PORTFOLIO/issues">Request Feature</a>
+</h3>
+
+
+This project was built using these technologies.
+
+- HTML
+- CSS
+- FIGMA
+
+
+## Features
+
+**📖 Multi-Page Layout**
+
+**🎨 Built using html,css and designed using figma**
+
+**📱 front end**
+
+
+
+### Show your support
+
+Give a ⭐ if you like this app!
+
+# MORE ON THE WEBSITE
+
+
+**Personal Portfolio Project README**
 
 ### Project Overview:
 
@@ -34,6 +89,4 @@ If you have any questions, suggestions, or feedback regarding this project, feel
 
 
 
-<img src="assets/portfolio.png" alt="Image 2" width="300"/>
-<img src="assets/portfolio1.png" alt="Image 2" width="300"/>
-<img src="assets/portfolio2.png" alt="Image 2" width="300"/>
+
